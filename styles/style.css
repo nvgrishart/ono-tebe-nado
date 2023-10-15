@@ -150,15 +150,6 @@
   color: #000;
 }
 
-.cover__title {
-  padding-bottom: 27px;
-  padding-left: 40px;
-  color: #000;
-  font-weight: 700;
-  font-size: 40px;
-  text-transform: uppercase;
-}
-
 .lots__card-list {
   display: grid;
   grid-template-columns: repeat(3, 430px);
